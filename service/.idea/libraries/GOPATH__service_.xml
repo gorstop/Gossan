@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;service&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/gowork/src/Pluralsight" />
+      <root url="file://$USER_HOME$/gowork/src/leetcode" />
+      <root url="file://$USER_HOME$/gowork/src/codeabbey" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/gowork/src/Pluralsight" />
+      <root url="file://$USER_HOME$/gowork/src/leetcode" />
+      <root url="file://$USER_HOME$/gowork/src/codeabbey" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
